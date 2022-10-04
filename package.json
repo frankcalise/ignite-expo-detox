@@ -89,7 +89,7 @@
     "babel-jest": "26.6.3",
     "babel-loader": "8.2.5",
     "detox": "19.12.1",
-    "detox-expo-helpers": "0.6.0",
+    "detox-expo-helpers": "github:fschoenfeldt/detox-expo-helpers#0.7.1",
     "eslint": "8.17.0",
     "eslint-config-prettier": "8.5.0",
     "eslint-config-standard": "17.0.0",
