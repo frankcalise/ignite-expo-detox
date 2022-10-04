@@ -21,3 +21,6 @@ $ ./bin/downloadExpoApp.sh && detox test --configuration ios.sim.expo
   Example
     ✓ should have the welcome screen first (31 ms)
 ```
+
+### Note
+This is using a fork of `detox-expo-helpers` and got some inspiration from https://github.com/fschoenfeldt/clean-expo-detox-testing which was using Expo 42, so it still needed some updating when it came to launching Expo Go.
